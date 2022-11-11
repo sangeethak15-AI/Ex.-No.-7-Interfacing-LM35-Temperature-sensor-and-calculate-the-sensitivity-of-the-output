@@ -218,7 +218,7 @@ int main()
 ## Tabulations and graph 
 Calculation of sensitivity 
 % of sensitivity is   S=  (T2-T1)/(A2-A1)*100
-![200113029-3ac864ce-f4cf-4d44-8049-5039a0508812](https://user-images.githubusercontent.com/93992063/201276418-2aa92b26-34fb-439b-94e1-2fce88e450ba.jpg)
+![image](https://user-images.githubusercontent.com/93992063/201276418-2aa92b26-34fb-439b-94e1-2fce88e450ba.jpg)
 
 
 
@@ -226,18 +226,21 @@ Calculation of sensitivity
 
  
 Figure -09 graph between temperature values and ADC output 
-![200113040-7cdf06ea-c5df-4bf9-8329-a494a6d37b24](https://user-images.githubusercontent.com/93992063/201276562-4e211392-2389-4865-ac2d-1fd2b3883547.jpg)
+![image](https://user-images.githubusercontent.com/93992063/201276562-4e211392-2389-4865-ac2d-1fd2b3883547.jpg)
+
+
+
+
+## Output screen shots :
+![image](https://user-images.githubusercontent.com/93992063/201276561-c9195786-0a36-495b-a185-0bfaa58b6e51.png)
+
+![image](https://user-images.githubusercontent.com/93992063/201276560-8338e1b4-de66-43b9-a259-e965e4c62487.png)
+
+![image](https://user-images.githubusercontent.com/93992063/201281144-7c2c7248-d29f-4416-a742-f8bf1c05db67.png)
+
 
 
 ## Result :
 Temperature sensor LM35 is interfaced to LPC2148 and its output is measured 
-
-## Output screen shots :
-
-
-
-![ex7,1](https://user-images.githubusercontent.com/93992063/201276561-c9195786-0a36-495b-a185-0bfaa58b6e51.png)
-
-![ex7](https://user-images.githubusercontent.com/93992063/201276560-8338e1b4-de66-43b9-a259-e965e4c62487.png)
 
 
